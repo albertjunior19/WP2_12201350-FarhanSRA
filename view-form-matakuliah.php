@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <tittle>form Input Mata kuliah</tittle>
+    
 </head>
 
 <body>
@@ -45,6 +45,11 @@
                                 </select>
                             </td>
                         </tr>
+                        <tr>
+                            <td colspan="3" align="center">
+                                <input type="submit" value="Submit">
+                            </td>
+                        </tr>    
                     </table>
         </form>
     </center>
